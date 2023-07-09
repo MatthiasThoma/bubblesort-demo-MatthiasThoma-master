@@ -1,0 +1,99 @@
+/* BASICS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    background-color: lightgray;
+    
+}
+
+.container {
+    background-color: blanchedalmond;
+    scale: 90%;
+    align-items: center;
+
+}
+
+img{
+    background-color: none;
+}
+
+
+
+
+/* NAVBAR */
+.title {
+    color: darkorange;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    
+}
+
+
+.menu {
+    box-sizing: flex;
+    height: 90px;
+    border-width: 90%;
+    background-color: blanchedalmond;
+    align-items: center;
+}
+
+
+/* SHOWCASE */
+
+.showcase{
+    box-sizing: flex;
+    height: 300px;
+    align-items: center;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    
+}
+
+/* SECTIONS */
+.section-1 {
+    background-color: blanchedalmond;
+}
+
+
+.section-2 {
+    background-color: blanchedalmond;
+}
+
+
+/* BUTTONS */
+
+.button {
+    box-sizing: flex;
+    color: black;
+    background-color: blanchedalmond;
+    border-color: orange;
+    scale: 130%;
+    border-style: groove;
+    
+       
+}
+
+
+/* TABLET */
+@media (max-width: 900px) {
+
+
+}
+
+/* MOBILE */
+@media (max-width: 700px) {
+
+
+}

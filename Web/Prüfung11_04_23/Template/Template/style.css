@@ -1,0 +1,40 @@
+/* BASICS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: lightblue;
+}
+
+/* NAVBAR */
+
+
+/* SHOWCASE */
+
+
+/* SECTIONS */
+
+.section-2 img {
+    transition: 1s;
+}
+
+
+/* BUTTONS */
+
+
+/* TABLET */
+@media (max-width: 900px) {
+
+
+}
+
+/* MOBILE */
+@media (max-width: 700px) {
+
+
+}

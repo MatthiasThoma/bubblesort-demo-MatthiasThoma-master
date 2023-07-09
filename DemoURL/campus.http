@@ -1,0 +1,2136 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+<head>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+   <title>news.ORF.at</title>
+
+   
+<link rel="preload" href="//orf.at/fonts/OrfOn-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//orf.at/fonts/OrfOnSC-CondensedRegular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//orf.at/fonts/OrfOn-CondensedMedium.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//orf.at/fonts/OrfOn-CondensedRegular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//orf.at/fonts/OrfOn-CondensedBold.woff2" as="font" type="font/woff2" crossorigin>
+
+<link data-compressor="2346d576" rel="stylesheet" type="text/css" media="screen" title="CSS Stylesheet" href="https://orf.at/mojo.compressed/1_4_1/news//news/common-main.css?v=2023022710-244" />
+
+
+
+
+<link rel="shortcut icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-64x64.png" sizes="64x64">
+<link rel="icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://orf.at/mojo/1_4_1/storyserver//common/images/favicons/favicon-128x128.png" sizes="128x128">
+
+<link rel="apple-touch-icon" href="https://orf.at/mojo/1_4_1/storyserver//news/news/images/touch-icon-iphone.png"/>
+<link rel="apple-touch-icon" sizes="76x76" href="https://orf.at/mojo/1_4_1/storyserver//news/news/images/touch-icon-ipad.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="https://orf.at/mojo/1_4_1/storyserver//news/news/images/touch-icon-iphone-retina.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="https://orf.at/mojo/1_4_1/storyserver//news/news/images/touch-icon-ipad-retina.png"/>
+
+<meta name="application-name" content="news.ORF.at"/>
+<meta name="msapplication-TileColor" content="#5286c1"/>
+<meta name="msapplication-square70x70logo" content="https://orf.at/mojo/1_4_1/storyserver//common/msapplicationtiles/target.128x128.png"/>
+<meta name="msapplication-square150x150logo" content="https://orf.at/mojo/1_4_1/storyserver//common/msapplicationtiles/target.270x270.png"/>
+<meta name="msapplication-wide310x150logo" content="https://orf.at/mojo/1_4_1/storyserver//common/msapplicationtiles/target.558x270.png" />
+<meta name="msapplication-square310x310logo" content="https://orf.at/mojo/1_4_1/storyserver//common/msapplicationtiles/target.558x558.png" />
+
+<link rel="alternate" type="application/rss+xml" title="Newsfeed - news.ORF.at"  href="https://rss.orf.at/news.xml" />
+
+<meta name="robots" content="NOODP, NOYDIR" />
+<meta name="format-detection" content="telephone=no" />
+<meta property="fb:admins" content="100000441983612" />
+<meta property="og:site_name" content="news.ORF.at" />
+
+<script class="nav-array">
+[{"title":"Infopoint Coronavirus","href":"https://orf.at/corona/daten","children":[]}]
+</script>
+
+
+   
+
+
+<link data-compressor="8ac5873f" rel="stylesheet" type="text/css" media="screen" title="CSS Stylesheet" href="https://orf.at/mojo.compressed/1_4_1/news//news/main.css?v=2023022710-244" />
+
+
+
+<link data-compressor="477e9bc6" rel="stylesheet" type="text/css" media="print" title="CSS Stylesheet" href="https://orf.at/mojo.compressed/1_4_1/news//news/print.css?v=2023022710-244" />
+
+
+
+
+
+   <meta property="fb:pages" content="44902596242,182146851877,21376831257,128777999463,553577838028208,288557274619001,942501875773264,515825358469599,289927117783068,400364115907,313258915520789,182837171730931,60906181115,200860629933510,520950004584056,334716002301,285552701609091,121919051194808,46459228315,121729504518822,123113897719876,362938404507,816516858421696,260337754071787,1362329713795725,1475362469455962,175201152647641,92325259890,185820979606,1547131872186889,114647135227810,1636539530008234,1756299601255193,979161472222861" />
+
+
+
+   <link rel="canonical" href="https://orf.at/">
+<meta property="og:url" content="https://orf.at/">
+<meta property="og:title" content="news.ORF.at">
+<meta name="twitter:title" content="news.ORF.at">
+<meta name="twitter:card" content="summary">
+
+<meta name="description" content="news.ORF.at: Die aktuellsten Nachrichten auf einen Blick - aus &Ouml;sterreich und der ganzen Welt. In Text, Bild und Video." />
+<meta property="og:description" content="news.ORF.at: Die aktuellsten Nachrichten auf einen Blick - aus &Ouml;sterreich und der ganzen Welt. In Text, Bild und Video.">
+<meta name="twitter:description" content="news.ORF.at: Die aktuellsten Nachrichten auf einen Blick - aus &Ouml;sterreich und der ganzen Welt. In Text, Bild und Video.">
+
+<meta property="og:image" content="https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="627" />
+<meta property="og:image:type" content="image/png" />
+
+
+</head>
+<body class="ss frontpage news orfon-margin-responsive" id="top">
+
+   <nav id="skiplinks" aria-label="Sprungmarken">
+   <a accesskey="1" href="#content">Zum Inhalt [AK+1]</a><span class="sr-only"> / </span>
+   <a accesskey="3" href="#ss-networkNavigation">Zur ORF.at-Navigation [AK+3]</a>
+</nav>
+
+
+
+
+   <div class="wrapper">
+      <header class="header">
+   <nav aria-label="ORF.at Navigation">
+   <ul id="ss-networkNavigation" class="network-navigation" tabindex="-1">
+      <li><a href="https://tv.orf.at/">Fernsehen</a></li>
+      <li><a href="https://tvthek.orf.at/">TVthek</a></li>
+      <li><a href="https://sound.orf.at/">Sound</a></li>
+      <li><a href="https://topos.orf.at/">Topos</a></li>
+      <li><a href="https://debatte.orf.at/">Debatte</a></li>
+      <li><a href="https://oesterreich.orf.at/" class="networkOesterreich">&Ouml;sterreich</a></li>
+      <li><a href="https://wetter.orf.at/">Wetter</a></li>
+      <li><a href="https://sport.orf.at/">Sport</a></li>
+      <li><a href="https://orf.at/" lang="en" class="current">News</a></li>
+      <li id="sitemap-menu" class="network-navigation-sitemap">
+         <a href="https://orf.at/uebersicht" id="sitemap-button" role="button" aria-controls="sitemap" aria-haspopup="true">ORF.at im &Uuml;berblick</a>
+         <div id="sitemap" class="network-navigation-sitemap-content" aria-labelledby="sitemap-button"></div>
+      </li>
+   </ul>
+</nav>
+
+
+   <div class="top-area-wrapper">
+      <div class="logo-area">
+         <a class="site-logo" href="https://orf.at/" aria-label="zur ORF.at-Startseite">
+            news
+         </a>
+         <a href="https://orf.at/" aria-hidden="true">
+            <img src="https://orf.at/mojo/1_4_1/storyserver//news/news/images/target_news.svg" width="101" height="39" alt="ORF.at" title="" class="orfon-target-logo">
+         </a>
+      </div>
+      <div class="widget-area">
+         
+<div id="weather-widget" class="weather">
+   <div class="dropdown-toggle" data-toggle="oon-dropdown">
+      <span class="sr-only">Bundesland-Wetter ausw&auml;hlen</span>
+      <div class="dropdown-menu">
+         <div tabindex="0" role="button" data-region="vorarlberg">Vorarlberg</div>
+         <div tabindex="0" role="button" data-region="tirol">Tirol</div>
+         <div tabindex="0" role="button" data-region="salzburg">Salzburg</div>
+         <div tabindex="0" role="button" data-region="kaernten">K&auml;rnten</div>
+         <div tabindex="0" role="button" data-region="steiermark">Steiermark</div>
+         <div tabindex="0" role="button" data-region="oberoesterreich">Ober&ouml;sterreich</div>
+         <div tabindex="0" role="button" data-region="niederoesterreich">Nieder&ouml;sterreich</div>
+         <div tabindex="0" role="button" data-region="wien">Wien</div>
+         <div tabindex="0" role="button" data-region="burgenland">Burgenland</div>
+      </div>
+   </div>
+   <div class="weather-content"></div>
+
+   <script id="weather-template" type="text/template">
+      <a class="weather-link" href="{{link}}">
+         <span class="sr-only">Wetter in </span>
+         <span class="capital">{{capital}}</span>
+         <span class="description sr-only">{{symbolAlttext}}</span>
+         <img class="icon" aria-hidden="true" src="https://wetter.orf.at/static/wetter/3_3/images/icons/{{dayNight}}/svg/{{symbol}}.svg" width="37" height="37" alt="{{symbolAlttext}}" />
+         <span class="temperature">{{temperature}} &deg;C</span>
+      </a>
+   </script>
+</div>
+
+
+
+      </div>
+      <div class="flag-area">
+         <div class="oon-flag" data-flag="news-front-desktop-header.json"></div>
+
+
+      </div>
+      <nav class="drawer-navigation">
+         <button class="drawer-button" aria-expanded="false" aria-controls="drawer-wrapper">
+   <span class="sr-only">Navigation</span>
+   <span class="drawer-button-image"></span>
+</button>
+
+
+
+         <div class="drawer-wrapper" id="drawer-wrapper" aria-hidden="true">
+   <div class="drawer-content">
+      
+      
+
+      
+      <ul class="drawer-network-navigation">
+         <li><a href="https://orf.at/">News</a></li>
+         <li><a href="https://sport.orf.at/">Sport</a></li>
+         <li><a href="https://wetter.orf.at/m/">Wetter</a></li>
+         <li><a href="https://oesterreich.orf.at/m/">&Ouml;sterreich</a></li>
+         <li><a href="https://debatte.orf.at">Debatte</a></li>
+         <li><a href="https://sound.orf.at">Sound</a></li>
+ 	 <li><a href="https://topos.orf.at/">Topos</a></li>
+         <li><a href="https://tvthek.orf.at/">TVthek</a></li>
+         <li><a href="https://tv.orf.at/">Fernsehen</a></li>
+         <li><a href="https://orf.at/uebersicht/">Alle ORF Angebote</a></li>
+      </ul>
+   </div>
+</div>
+
+
+      </nav>
+   </div>
+</header>
+<div class="drawer-dimmer"></div>
+
+<div
+    class="vue-oon-product-navigation"
+    data-level="one"
+    data-back-button-href='https://orf.at/'
+    data-page-title='ORF.at'
+
+
+></div>
+
+
+      <main class="content front" id="content" tabindex="-1">
+         
+<div id="ticker-breaking-special"></div>
+
+<div class="oon-grid oon-grid-alias-news"><div class="oon-grid-top">
+<div class="oon-grid-item oon-grid-item-version-2q
+      oon-grid-col-1 oon-grid-row-0
+      oon-grid-idx-0"
+>
+
+      <a href="https://orf.at/stories/3308170/">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2023/10/78/crops/w=590,h=393,q=70,r=1/1709156_master_631678_usa_waco_symbol_rechte_milizen_ap.jpg?s=6a098ecbde9a5bdbd8322e5491a5bdba90f41e25 1x, https://assets.orf.at/mims/2023/10/78/crops/w=590,h=393,q=60,r=2/1709156_master_631678_usa_waco_symbol_rechte_milizen_ap.jpg?s=d77e34054c6993b40b6b39f124ba9ded4ea9f321 2x, https://assets.orf.at/mims/2023/10/78/crops/w=590,h=393,q=80,r=3/1709156_master_631678_usa_waco_symbol_rechte_milizen_ap.jpg?s=f8b6598c17d810aa7d307dff5ba69e36fb9179d3 3x"
+      width="590"
+      height="393"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2023/10/78/crops/w=1020,h=580,q=70,r=1/1709156_master_631678_usa_waco_symbol_rechte_milizen_ap.jpg?s=3bcd247a91b37ede68c39bbccda2f37c2d4201e8 1x, https://assets.orf.at/mims/2023/10/78/crops/w=1020,h=580,q=60,r=2/1709156_master_631678_usa_waco_symbol_rechte_milizen_ap.jpg?s=2390ce891a700eae70569fafddae2252aebfb03d 2x, https://assets.orf.at/mims/2023/10/78/crops/w=1020,h=580,q=80,r=3/1709156_master_631678_usa_waco_symbol_rechte_milizen_ap.jpg?s=f02b65653999b6357b929a9d3ccfabc7bead0a41 3x"
+      width="1020"
+      height="580"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2023/10/78/crops/w=347,q=90,r=1/1709163_2q_631678_usa_waco_symbol_rechte_milizen_ap.jpg?s=36ec16b128684e9ce081b5d57355c81a912bb2ef 1x, https://assets.orf.at/mims/2023/10/78/crops/w=347,q=80,r=2/1709163_2q_631678_usa_waco_symbol_rechte_milizen_ap.jpg?s=d88d33abe2ad17e7850276363b4e9c2f732f8060 2x, https://assets.orf.at/mims/2023/10/78/crops/w=347,q=80,r=3/1709163_2q_631678_usa_waco_symbol_rechte_milizen_ap.jpg?s=f40d94b9298f33e2447fc6306f2bbc8c3f00e9bd 3x"
+      width="347"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2023/10/78/crops/w=347,q=90,r=2/1709163_2q_631678_usa_waco_symbol_rechte_milizen_ap.jpg?s=d78b1a40a1a8a73f7c33b58a0052e703b37f51f5"
+   alt="Eine Archivaufnahme aus dem Jahr 1993 zeigt die brennende Unterkunft der Davidianer-Sekte in Waco (US-Bundesstaat Texas)"
+   title="&copy; AP/Susan Weems"
+   width="347"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-7 oon-grid-texts-letter-spacing-10">
+   <h1>
+      Auswirkungen bis heute:
+      <br/>
+      Waco-Fiasko als Grundstein rechter US-Milizen
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-8 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Waco-Fiasko als Grundstein rechter US-Milizen
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<div class="oon-grid-item oon-grid-item-version-2q
+      oon-grid-col-2 oon-grid-row-1
+      oon-grid-idx-1"
+>
+
+      <a href="https://orf.at/stories/3310144/">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2023/12/86/crops/w=590,h=295,q=70,r=1/1727041_master_638986_spoe_vorsitz_bewerbungsfrist_sry.jpg?s=41e5934692e12d8725760e50d19367fda81b4775 1x, https://assets.orf.at/mims/2023/12/86/crops/w=590,h=295,q=60,r=2/1727041_master_638986_spoe_vorsitz_bewerbungsfrist_sry.jpg?s=f2a026c616bd91fd736ea688084b7db804fe62c9 2x, https://assets.orf.at/mims/2023/12/86/crops/w=590,h=295,q=80,r=3/1727041_master_638986_spoe_vorsitz_bewerbungsfrist_sry.jpg?s=8e4687be1a2b0c9c1ca5bfcb71cacff6b02e6a96 3x"
+      width="590"
+      height="295"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2023/12/86/crops/w=500,h=580,q=70,r=1/1727041_master_638986_spoe_vorsitz_bewerbungsfrist_sry.jpg?s=34d890a4c74ae493c6b912465c2fa43fa958e547 1x, https://assets.orf.at/mims/2023/12/86/crops/w=500,h=580,q=60,r=2/1727041_master_638986_spoe_vorsitz_bewerbungsfrist_sry.jpg?s=91c7f14c771ef50ffb1e9a388502ceff3fbbe9ce 2x, https://assets.orf.at/mims/2023/12/86/crops/w=500,h=580,q=80,r=3/1727041_master_638986_spoe_vorsitz_bewerbungsfrist_sry.jpg?s=cc1a3858f53796e16568ed48748669cf0c329de8 3x"
+      width="500"
+      height="580"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2023/12/86/crops/w=347,q=90,r=1/1727048_2q_638986_spoe_vorsitz_bewerbungsfrist_sry.jpg?s=57630b59376d1dff7e8a1ebf2f800adaab948885 1x, https://assets.orf.at/mims/2023/12/86/crops/w=347,q=80,r=2/1727048_2q_638986_spoe_vorsitz_bewerbungsfrist_sry.jpg?s=f05e1d6ab447de5ad20511df449170e292128326 2x, https://assets.orf.at/mims/2023/12/86/crops/w=347,q=80,r=3/1727048_2q_638986_spoe_vorsitz_bewerbungsfrist_sry.jpg?s=e612aa69fad3defb6d2db4a8d8b0c3d4ad4a87c5 3x"
+      width="347"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2023/12/86/crops/w=347,q=90,r=2/1727048_2q_638986_spoe_vorsitz_bewerbungsfrist_sry.jpg?s=5bedb5daed4322898a18fe04f1301842af80d7ee"
+   alt="Bundesgeschäftsstelle SPÖ"
+   title="&copy; ORF.at/Sonja Ryzienski"
+   width="347"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      Frist vorbei:
+      <br/>
+      SPÖ-Rennen mit vielen Unbekannten
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Frist vorbei: SPÖ-Rennen mit vielen Unbekannten
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<div class="oon-grid-item oon-grid-item-version-2h
+      oon-grid-col-0 oon-grid-row-0
+      oon-grid-idx-2"
+>
+
+      <a href="https://orf.at/stories/3310074/">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2023/12/70/crops/w=590,h=295,q=70,r=1/1726315_master_638670_klima_waldbrand_spanien_ap.jpg?s=2c2a015c67001fa83047cfa6c35d891352df4b92 1x, https://assets.orf.at/mims/2023/12/70/crops/w=590,h=295,q=60,r=2/1726315_master_638670_klima_waldbrand_spanien_ap.jpg?s=32536afd8283713a0c2cb0166afaa7ad3fa0cf3e 2x, https://assets.orf.at/mims/2023/12/70/crops/w=590,h=295,q=80,r=3/1726315_master_638670_klima_waldbrand_spanien_ap.jpg?s=697018b04f7042325cdc1f8fa44b462782a72d53 3x"
+      width="590"
+      height="295"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2023/12/70/crops/w=500,h=280,q=70,r=1/1726315_master_638670_klima_waldbrand_spanien_ap.jpg?s=69992a9317f6d0093b6e04bd543332ec658012d4 1x, https://assets.orf.at/mims/2023/12/70/crops/w=500,h=280,q=60,r=2/1726315_master_638670_klima_waldbrand_spanien_ap.jpg?s=7dfab01cb56933e163088af7338f6be039d8f221 2x, https://assets.orf.at/mims/2023/12/70/crops/w=500,h=280,q=80,r=3/1726315_master_638670_klima_waldbrand_spanien_ap.jpg?s=8a2640d8bb6dfe2c1ac7c464f672a6a1c3cbe41d 3x"
+      width="500"
+      height="280"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2023/12/70/crops/w=171,q=90,r=1/1726322_2h_638670_klima_waldbrand_spanien_ap.jpg?s=02d4656be557f4e5fdf203783f80602309586738 1x, https://assets.orf.at/mims/2023/12/70/crops/w=171,q=80,r=2/1726322_2h_638670_klima_waldbrand_spanien_ap.jpg?s=672feb7ded5e58db6167fa119581ca9f6f1ce72d 2x, https://assets.orf.at/mims/2023/12/70/crops/w=171,q=80,r=3/1726322_2h_638670_klima_waldbrand_spanien_ap.jpg?s=da4caff8ac34b11dd4a33b0cb5dcf2da86de3e2c 3x"
+      width="171"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2023/12/70/crops/w=171,q=90,r=2/1726322_2h_638670_klima_waldbrand_spanien_ap.jpg?s=dd8fa6b4b7590ad65b29066b8ab0c0c9caf8bc9c"
+   alt="Waldbrand bei Villanueva de Viver, Spanien"
+   title="&copy; AP/Lorena Sopena"
+   width="171"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+<div class="oon-grid-texts-cue oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-8">
+   <h1> Waldbrände in Spanien: </h1>
+</div>
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-8">
+   <h1>
+      
+      
+      Vom saisonalen zum „dauerhaften Problem“
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Waldbrände in Spanien: Kein saisonales Problem mehr
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<div class="oon-grid-item oon-grid-item-version-1k
+      oon-grid-col-1 oon-grid-row-1
+      oon-grid-idx-3"
+>
+
+      <a href="https://noe.orf.at/stories/3200012/">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2023/11/44/crops/w=295,h=171,q=70,r=1/1727259_master_634644_leere_wohnung_19_coe.jpg?s=7370fd09aede43bc7f706abc995ccb10bdca1c93 1x, https://assets.orf.at/mims/2023/11/44/crops/w=295,h=171,q=60,r=2/1727259_master_634644_leere_wohnung_19_coe.jpg?s=b4192678602fa229a04bdb166abd0545921657e3 2x, https://assets.orf.at/mims/2023/11/44/crops/w=295,h=171,q=80,r=3/1727259_master_634644_leere_wohnung_19_coe.jpg?s=7f13a5f95b72d2f79ae7d74c409e2a6a90914e5f 3x"
+      width="295"
+      height="171"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2023/11/44/crops/w=500,h=280,q=70,r=1/1727259_master_634644_leere_wohnung_19_coe.jpg?s=eb7350f59305fb0d3d63e9bd6fe5ed8629a7fb18 1x, https://assets.orf.at/mims/2023/11/44/crops/w=500,h=280,q=60,r=2/1727259_master_634644_leere_wohnung_19_coe.jpg?s=1ece37ea805995bbdfc58aa815bba6e73797f31e 2x, https://assets.orf.at/mims/2023/11/44/crops/w=500,h=280,q=80,r=3/1727259_master_634644_leere_wohnung_19_coe.jpg?s=0852ffd3cc06c092457be952286b01e6398a4dd9 3x"
+      width="500"
+      height="280"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2023/11/44/crops/w=171,q=90,r=1/1727261_1k_634644_leere_wohnung_19_coe.jpg?s=56a4c45f695b6614b4af336890b7ec8effe4d2e4 1x, https://assets.orf.at/mims/2023/11/44/crops/w=171,q=80,r=2/1727261_1k_634644_leere_wohnung_19_coe.jpg?s=055f990801fa7bb4ad6111f2647fecb7e0e4e44e 2x, https://assets.orf.at/mims/2023/11/44/crops/w=171,q=80,r=3/1727261_1k_634644_leere_wohnung_19_coe.jpg?s=9d711f2677520b0fd27004ef111db164449332ca 3x"
+      width="171"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2023/11/44/crops/w=171,q=90,r=2/1727261_1k_634644_leere_wohnung_19_coe.jpg?s=4ec28a6699b096a1a59d30cb9aa85589c76613a4"
+   alt="Leere Wohnung"
+   title="&copy; ORF.at/Christian Öser"
+   width="171"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-left">
+   <span> Österreich </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-9">
+   <h1>
+      
+      
+      Teils hohe Mietsprünge bei Genossenschaften
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-left">
+   <span> Österreich </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Teils hohe Mietsprünge bei Genossenschaften
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<div class="oon-grid-item oon-grid-item-version-1k
+      oon-grid-col-3 oon-grid-row-0
+      oon-grid-idx-4"
+>
+
+      <a href="https://sport.orf.at/stories/3109799">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2023/12/10/crops/w=295,h=171,q=70,r=1/1727139_master_639010_fus_em_quali_aut_aze_match_r.jpg?s=c2e2c91b45070dda85ab5d2c9ab4c35c95066d68 1x, https://assets.orf.at/mims/2023/12/10/crops/w=295,h=171,q=60,r=2/1727139_master_639010_fus_em_quali_aut_aze_match_r.jpg?s=0f21b1f1fb574ed86b0e8f5280a008b0f0fe371a 2x, https://assets.orf.at/mims/2023/12/10/crops/w=295,h=171,q=80,r=3/1727139_master_639010_fus_em_quali_aut_aze_match_r.jpg?s=e3df11e7e1f77004fae167d4c0f920d443ce7be3 3x"
+      width="295"
+      height="171"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2023/12/10/crops/w=500,h=280,q=70,r=1/1727139_master_639010_fus_em_quali_aut_aze_match_r.jpg?s=b6e103588dc30955ef74961cc7b5825bbc7294c8 1x, https://assets.orf.at/mims/2023/12/10/crops/w=500,h=280,q=60,r=2/1727139_master_639010_fus_em_quali_aut_aze_match_r.jpg?s=c3d0f71d1c04e6bae29430df9295a29c0a2b1676 2x, https://assets.orf.at/mims/2023/12/10/crops/w=500,h=280,q=80,r=3/1727139_master_639010_fus_em_quali_aut_aze_match_r.jpg?s=7af8cfc9ab25f992241d2b7faffd5e6834d56e39 3x"
+      width="500"
+      height="280"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2023/12/10/crops/w=171,q=90,r=1/1727140_1k_639010_fus_em_quali_aut_aze_match_r.jpg?s=70335dc7472419d56bfe3e3c1b9bd198ba74a882 1x, https://assets.orf.at/mims/2023/12/10/crops/w=171,q=80,r=2/1727140_1k_639010_fus_em_quali_aut_aze_match_r.jpg?s=131b831fdf5b0036daa1c14a8bb256113f2098a6 2x, https://assets.orf.at/mims/2023/12/10/crops/w=171,q=80,r=3/1727140_1k_639010_fus_em_quali_aut_aze_match_r.jpg?s=a0aae24ae12d00a666712432200de5a0301c7034 3x"
+      width="171"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2023/12/10/crops/w=171,q=90,r=2/1727140_1k_639010_fus_em_quali_aut_aze_match_r.jpg?s=94d41faed923650d604389528c4ae62be17f90bf"
+   alt="Österreichische Spieler jubeln"
+   title="&copy; Reuters/Leonhard Foeger"
+   width="171"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-right">
+   <span> Sport </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-9 oon-grid-texts-letter-spacing-10">
+   <h1>
+      Österreich startet
+      <br/>
+      EM-Quali nach Maß
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-right">
+   <span> Sport </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-8 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Österreich startet EM-Quali nach Maß
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<!-- top area close --> </div> <div class="oon-grid-overflow">
+<div class="oon-grid-item oon-grid-item-version-1k
+      oon-grid-col-4 oon-grid-row-0
+      oon-grid-idx-5"
+>
+
+      <a href="https://topos.orf.at/moritz-eggert-die-letzte-verschwoerung100">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2023/12/63/crops/w=295,h=171,q=70,r=1/1726779_master_638863_moritz-eggert-die-letzte-verschwoerung.jpg?s=6296554735ee4c244a896e814f7c1f468c285cea 1x, https://assets.orf.at/mims/2023/12/63/crops/w=295,h=171,q=60,r=2/1726779_master_638863_moritz-eggert-die-letzte-verschwoerung.jpg?s=4af5e9287275dc1db25451b3587dca630ac49770 2x, https://assets.orf.at/mims/2023/12/63/crops/w=295,h=171,q=80,r=3/1726779_master_638863_moritz-eggert-die-letzte-verschwoerung.jpg?s=8df3a4b8646a72e08cc907dedab6b501fc276813 3x"
+      width="295"
+      height="171"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2023/12/63/crops/w=328,h=185,q=70,r=1/1726779_master_638863_moritz-eggert-die-letzte-verschwoerung.jpg?s=df8979be8713a6889b10851ec358f22b5710d35f 1x, https://assets.orf.at/mims/2023/12/63/crops/w=328,h=185,q=60,r=2/1726779_master_638863_moritz-eggert-die-letzte-verschwoerung.jpg?s=f31288b741e28f3d8f40d7353d304010c65f9cf7 2x, https://assets.orf.at/mims/2023/12/63/crops/w=328,h=185,q=80,r=3/1726779_master_638863_moritz-eggert-die-letzte-verschwoerung.jpg?s=669108895fc8af3ef5b581f7dfd86e484b2a590d 3x"
+      width="328"
+      height="185"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2023/12/63/crops/w=171,q=90,r=1/1726782_1k_638863_moritz-eggert-die-letzte-verschwoerung.jpg?s=3988481246aedb583b38a6bf691ab5672daadb43 1x, https://assets.orf.at/mims/2023/12/63/crops/w=171,q=80,r=2/1726782_1k_638863_moritz-eggert-die-letzte-verschwoerung.jpg?s=9c696399f19603f705feeb06aac83abbef472bc4 2x, https://assets.orf.at/mims/2023/12/63/crops/w=171,q=80,r=3/1726782_1k_638863_moritz-eggert-die-letzte-verschwoerung.jpg?s=788f9d413e3e10fad8c85d780d90622c61a530d6 3x"
+      width="171"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2023/12/63/crops/w=171,q=90,r=2/1726782_1k_638863_moritz-eggert-die-letzte-verschwoerung.jpg?s=2b63769b68dc635a99ed8269c214fce220ff41c1"
+   alt="Szenenbild im Unterhemd aus der letzten Verschwörung"
+   title="&copy; Barbara Pálffy/Volksoper Wien"
+   width="171"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-right">
+   <span> Topos </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      ‚Letzte Verschwörung‘:<br />Operette Österreich
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-right">
+   <span> Topos </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      „Letzte Verschwörung“: Staatsoperette Österreich
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<div class="oon-grid-item oon-grid-item-version-1k
+      oon-grid-col-4 oon-grid-row-1
+      oon-grid-idx-6"
+>
+
+      <a href="https://dancingstars.orf.at/stories/3218381">
+         <div class="oon-grid-image">
+   <picture>
+         <source
+      media="(max-width: 589px)"
+      srcset="https://assets.orf.at/mims/2023/12/26/crops/w=295,h=171,q=70,r=1/1727150_master_639026_01_michael_buchinger_herbert_stanonik_5r1a0006_big.jpg?s=53d2b91582a169db266988fb9bc53db11be09f2f 1x, https://assets.orf.at/mims/2023/12/26/crops/w=295,h=171,q=60,r=2/1727150_master_639026_01_michael_buchinger_herbert_stanonik_5r1a0006_big.jpg?s=a482e259da0094d8dd64d5c178625e8fd830374d 2x, https://assets.orf.at/mims/2023/12/26/crops/w=295,h=171,q=80,r=3/1727150_master_639026_01_michael_buchinger_herbert_stanonik_5r1a0006_big.jpg?s=0ab1e12edaee75c71726b62d9f08ff52c1841b63 3x"
+      width="295"
+      height="171"
+   />
+
+
+         <source
+      media="(max-width: 1019px)"
+      srcset="https://assets.orf.at/mims/2023/12/26/crops/w=328,h=185,q=70,r=1/1727150_master_639026_01_michael_buchinger_herbert_stanonik_5r1a0006_big.jpg?s=c39901e4b16f0a3023dd728e7af3d084935d5775 1x, https://assets.orf.at/mims/2023/12/26/crops/w=328,h=185,q=60,r=2/1727150_master_639026_01_michael_buchinger_herbert_stanonik_5r1a0006_big.jpg?s=67d4022f55d7aaca68d2621a8f5d2a7559dc38cd 2x, https://assets.orf.at/mims/2023/12/26/crops/w=328,h=185,q=80,r=3/1727150_master_639026_01_michael_buchinger_herbert_stanonik_5r1a0006_big.jpg?s=2b089efa33ff734d179014675d0d1c7841dfdbd4 3x"
+      width="328"
+      height="185"
+   />
+
+
+         <source
+      media="(min-width: 1020px)"
+      srcset="https://assets.orf.at/mims/2023/12/26/crops/w=171,q=90,r=1/1727157_1k_639026_01_michael_buchinger_herbert_stanonik_5r1a0006_big.jpg?s=2410be7d50c1910f8d32b2f6ec87155ea4e3b53e 1x, https://assets.orf.at/mims/2023/12/26/crops/w=171,q=80,r=2/1727157_1k_639026_01_michael_buchinger_herbert_stanonik_5r1a0006_big.jpg?s=08964ac72da22b0ba15b4006fc8f26630cdc8a5c 2x, https://assets.orf.at/mims/2023/12/26/crops/w=171,q=80,r=3/1727157_1k_639026_01_michael_buchinger_herbert_stanonik_5r1a0006_big.jpg?s=802ff96bdad5d8e4bab2d22fe051ad979fee94c5 3x"
+      width="171"
+      height=""
+   />
+
+
+      <img src="https://assets.orf.at/mims/2023/12/26/crops/w=171,q=90,r=2/1727157_1k_639026_01_michael_buchinger_herbert_stanonik_5r1a0006_big.jpg?s=472a19b7f8476510f4cb5b4c08d9e0503cad89c4"
+   alt="Michael Buchinger und Herbert Stanonik"
+   title="&copy; ORF/Dominique Hammer"
+   width="171"
+   height=""
+/>
+
+
+
+      
+      
+   </picture>
+</div>
+
+
+         <div class="oon-grid-texts-container">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-right">
+   <span> dancing stars </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      Kein Happy End
+      <br/>
+      für Michi Buchinger
+   </h1>
+</div>
+
+
+         </div>
+         <div class="oon-grid-texts-container-mobile">
+            
+
+
+
+<div class="oon-grid-texts-flag oon-grid-texts-flag-position-right">
+   <span> dancing stars </span>
+</div>
+
+
+<div class="oon-grid-texts-headline oon-grid-texts-shadow-10 oon-grid-texts-dimout-5 oon-grid-texts-letter-spacing-10">
+   <h1>
+      
+      
+      Kein Happy End für Michi Buchinger
+   </h1>
+</div>
+
+
+         </div>
+
+   </a>
+</div>
+
+<!-- close overflow wrapper --> </div>
+</div>
+
+<div class="flag-ticker-mobile oon-flag" data-flag="news-front-mobile-grid.json" data-is-mobile="true"></div>
+
+
+
+<div class="ticker" id="ticker">
+   <div class="ticker-ressort inland">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Inland</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310166"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikInland/v1news/stories/ticker/3310166"
+   data-adworxcat="inl"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikInland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310166/" id="story3310166" role="button" aria-controls="ticker-story-text-3310166" aria-expanded="false">
+            Gemeinsame Persönliche Assistenz bald in ersten Bundesländern
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310166">
+         
+         <div class="story-story">
+            <p>Die Persönliche Assistenz für Menschen mit Behinderung ist von Bundesland zu Bundesland unterschiedlich geregelt, im Vorjahr hatte die Regierung erklärt, das ändern zu wollen: Voraussichtlich ab dem Sommer soll die gemeinsame Persönliche Assistenz in Freizeit und Beruf in Salzburg, Tirol und Vorarlberg starten, berichtete Sozialminister Johannes Rauch (Grüne) heute. Die Förderrichtlinie dazu ist ab heute in Kraft, es stehen 100 Millionen Euro zur Verfügung.</p><p>„Wir verbessern für Tausende Menschen mit Behinderungen die Möglichkeit, ein selbstbestimmtes Leben zu führen“, sagte Rauch. „Ziel ist, dass sich rasch weitere Bundesländer an der Vereinheitlichung beteiligen.“ Die Zuständigkeit ist bisher zwischen Bund und Ländern aufgeteilt.</p><p>Über 2.000 Personen nehmen die Assistenz für Freizeitgestaltung nach Vorschriften der Länder in Anspruch, rund 600 eine Persönliche Assistenz am Arbeitsplatz nach Vorgaben des Bundes. Mit der neuen Förderrichtlinie sei die Voraussetzung für eine Vereinheitlichung geschaffen, so Rauch.</p><h3>Angebot wird ausgeweitet</h3><p>Bundesländer, die ihr Angebot in diesem Rahmen zur Verfügung stellen, erhalten vom Sozialministerium bis zu 50 Prozent der Kosten zurück. Ab sofort können die Länder ihre Anträge stellen. Im Sommer startet voraussichtlich in Salzburg, Tirol und Vorarlberg das Pilotprojekt, gleichzeitig läuft ein Evaluierungsprozess.</p><p>Bisher ist das Angebot der Länder meist auf Menschen mit körperlichen Behinderungen, die Pflegegeld beziehen, beschränkt, nun soll sich der Kreis der Anspruchsberechtigten um Menschen mit intellektuellen oder psychischen Beeinträchtigungen erweitern. Eine arbeits- und sozialversicherungsrechtliche Absicherung soll die Arbeitsbedingungen für Assistentinnen und Assistenten verbessern. Die Förderrichtlinie sieht zudem eine gemeinsame Anlaufstelle vor.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310166/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310168"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikInland/v1news/stories/ticker/3310168"
+   data-adworxcat="inl"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikInland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310168/" id="story3310168" role="button" aria-controls="ticker-story-text-3310168" aria-expanded="false">
+            Großteil der Lehrer besuchte zuletzt Fortbildungen
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310168">
+         
+         <div class="story-story">
+            <p>Der überwiegende Teil der rund 123.000 Lehrerinnen und Lehrer hat 2021/22 an den Pädagogischen Hochschulen (PH) mindestens eine Fortbildungsveranstaltung absolviert. Das zeigt die Beantwortung einer parlamentarischen Anfrage von NEOS durch Bildungsminister Martin Polaschek (ÖVP).</p><p>Über alle PHs hinweg wurden rund 116.000 Teilnehmerinnen und Teilnehmer registriert, wobei eine Person sich auch an mehreren PHs fortbilden könnte. Geht man aber davon aus, dass Lehrerinnen und Lehrer meist Veranstaltungen an nur einer Institution besuchen, hätten über 90 Prozent im Studienjahr 2021/22 zumindest eine Fortbildung besucht. 2014/15 waren es laut Rechnungshof nur zwei Drittel.</p><p>Weil das neue Lehrerdienstrecht verpflichtende Fortbildungen außerhalb der Unterrichtszeit vorsieht, rechnet das Ministerium damit, dass die Teilnahme an Fortbildungen weiter steigen wird. Betont wird auch, dass Schulleitungen seit dem Bildungsreformgesetz 2017 das Recht haben, Fortbildungsveranstaltungen für bestimmte Pädagoginnen und Pädagogen festzulegen.</p><h3>NEOS kritisiert „Fortbildungsmonopol“ der PHs</h3><p>NEOS-Bildungssprecherin Martina Künsberg Sarre begrüßte zwar, dass die Beteiligung an Fortbildungen steige. „Das Fortbildungsmonopol der PHs ist jedoch komplett veraltet und endlich aufzuheben, damit Lehrer auch Angebote von anderen Anbietern annehmen können“, so die Abgeordnete in einer Stellungnahme.</p><p>Bei einer Ende 2022 durchgeführten Umfrage des Österreichischen Bundesverlags (öbv) hatte knapp die Hälfte der 500 Befragten angegeben, es gebe nicht genügend relevante Fortbildungsangebote für sie. In der Anfragebeantwortung betonte das Ministerium allerdings, dass es Lehrpersonal freigestellt sei, Fort- und Weiterbildung auch an anderen Institutionen zu besuchen.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310168/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310156"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikInland/v1news/stories/ticker/3310156"
+   data-adworxcat="inl"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikInland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310156/" id="story3310156" role="button" aria-controls="ticker-story-text-3310156" aria-expanded="false">
+            Mutter-Kind-Pass bleibt Kassenleistung
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310156">
+         
+         <div class="story-story">
+            <p>Die Untersuchungen des Mutter-Kind-Passes (künftig: Eltern-Kind-Pass) bleiben eine Kassenleistung – die von der Ärztekammer angedrohte Kündigung des Kassenvertrages ist vom Tisch. Einen entsprechenden Beschluss fassten die Gremien der Kurie der niedergelassenen Ärzte gestern, nachdem man sich mit den zuständigen Ministerien und der Sozialversicherung geeinigt hatte. Das teilten die Standesvertretung und die Bundesregierung mit.</p><p><a href="https://orf.at/stories/3310094/" rel="noopener noreferrer">Lesen Sie mehr …</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310156/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310164"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikInland/v1news/stories/ticker/3310164"
+   data-adworxcat="inl"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikInland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310164/" id="story3310164" role="button" aria-controls="ticker-story-text-3310164" aria-expanded="false">
+            ÖVP will bis Jahresende Nehammers „Zukunftsplan“ ausarbeiten
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310164">
+         
+         <div class="story-story">
+            <p>Die Ziele, die ÖVP-Chef und Bundeskanzler Karl Nehammer Mitte März in seiner „Rede zur Zukunft der Nation“ dargelegt hat, sollen bis Ende des Jahres in einen „Österreich 2030“ genannten „Zukunftsplan“ fließen.</p><p>Die Maßnahmen und Vorhaben werden ab der kommenden Woche mit Experten, Praktikern und Politikern aus unterschiedlichen Fachbereichen ausgearbeitet, heißt es in einer Aussendung. Die Volkspartei arbeitet dafür mit ihrer Politischen Akademie zusammen.</p><p>Neben dem Bundeskanzler wirken etwa Arbeitsrechtsexperte Wolfgang Mazal, die Generaldirektorin der Wüstenrot-Gruppe Susanne Riess-Hahn, Gemeindebund-Präsident Alfred Riedl, der Vorstandsdirektor der Flughafen Wien AG Günther Ofner, der Präsident der Österreichischen Akademie der Wissenschaften und ehemalige Bildungsminister Heinz Faßmann (ÖVP) und Seniorenrat-Präsidentin Ingrid Korosec (ÖVP) mit.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310164/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310132"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikInland/v1news/stories/ticker/3310132"
+   data-adworxcat="inl"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikInland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310132/" id="story3310132" role="button" aria-controls="ticker-story-text-3310132" aria-expanded="false">
+            Gutachten um Gutachten: NEOS hakt bei BWB-Posten nach
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310132">
+         
+         <div class="story-story">
+            <p>Koalitionäre Differenzen verhindern die Besetzung des Leitungspostens bei der Bundeswettbewerbsbehörde (BWB). Seit über einem Jahr wird die Behörde interimistisch von Natalie Harsdorf-Borsch geleitet. Wegen des Bestellungsprozesses gibt es bereits zwei Gutachten. NEOS will nun über eine parlamentarische Anfrage weitere Informationen über jenes, das vom ÖVP-geführten Wirtschafts- und Arbeitsministerium beauftragt wurde, bekommen.</p><p>Die Entscheidung über die BWB-Generaldirektion hätte schon im vergangenen Sommer fallen sollen. Seit November 2021 ist klar, dass es einen neuen Chef bzw. eine neue Chefin braucht. Ausgeschrieben war der Posten schnell. Von der Begutachtungskommission wurde der amtierende Vizepräsident des Bundesverwaltungsgerichts (BVwG), Michael Sachs, erstgereiht, einen Punkt weniger erhielt Harsdorf-Borsch.</p><p>Die Grünen legen sich aber gegen Sachs quer, weil unter anderem ein von ihnen in Auftrag gegebenes Gutachten zum Schluss kam, dass er die Anforderungen für den Posten nicht erfüllen würde. Das Ressort von ÖVP-Wirtschaftsminister Martin Kocher beauftragte daraufhin ein Gegengutachten. Die nötigen Ernennungsvoraussetzungen im Ausschreibungsverfahren seien eingehalten worden, teilte das Ressort mit Blick auf das Gutachten, das nicht veröffentlicht wird, mit.</p><h3>Gutachten über Gutachten und Gesetz</h3><p>Die Anfrage des NEOS-Abgeordneten Gerald Loacker lässt den bisherigen Bewerbungsprozess Revue passieren. Bereits in einer früheren Anfragebeantwortung teilte Kocher mit, dass man dem von seinem Ressort beauftragten Gutachter, dem deutschen Kartellrechtsexperten Torsten Köber, lediglich das von den Grünen vorgelegte Gutachten (von Rechtsanwalt Meinhard Novak erstellt) sowie das Wettbewerbsgesetz samt Erläuterungen übermittelt hatte.</p><p>In der Anfragebeantwortung vom Jänner wurde darüber hinaus auch erstmals der Titel des deutschen Gutachtens bekannt: „Gutachten zur Interpretation der Begriffe Wettbewerbsrecht sowie Kartellrecht und Analyse des Gutachtens von Dr. Meinhard Novak“. Es kostete 10.000 Euro und wird nicht veröffentlicht.</p><p>Gegenüber der „Wiener Zeitung“ sagte Köber, dass es in seinem Gutachten um die „abstrakte Frage“ gehe, „ob der Begriff des ‚Wettbewerbsrechts‘ eng im Sinne von Kartellrecht oder weiter zu verstehen ist und z. B. auch das Beihilfen- und Vergaberecht umfasst“.</p><h3>„Kleinkrieg um Postenbesetzung“</h3><p>NEOS-Mandatar Loacker ortet einen „Kleinkrieg um Postenbesetzung auf Ministeriumskosten“. „Wenn im Gutachten, das auf Kosten des Ministeriums erstellt wurde, nur allgemeine Ausführungen zu den Grenzen eines Rechtsbegriffes enthalten sind, ist nicht ersichtlich, warum dieses nicht vor der Bestimmung der Nachfolge in der BWB der Öffentlichkeit zur Verfügung gestellt werden soll“, heißt es in der Anfrage.</p><p>Minister Kocher soll jetzt innerhalb von zwei Monaten beantworten, welche sachlichen Überlegungen zu der Entscheidung geführt haben, dass das „ÖVP-Gegengutachten zum Gutachten der Grünen“ vom Ministerium bezahlt wurde. Zudem will Loacker noch wissen, ob die Eignung von Sachs für den Posten festgestellt und wann mit den Grünen über eine Veröffentlichung des Gutachtens gesprochen wurde.</p><p>Anfang März hielten die Grünen gegenüber ORF.at fest, dass für die Veröffentlichung von Gutachten eines Ministeriums „ausschließlich das betroffene Ministerium selbst verantwortlich“ sei. Von grüner Seite würde man eine solche jedenfalls begrüßen. Laut Kocher müsse hingegen ein Einvernehmen mit dem Koalitionspartner hergestellt werden – setzt sich das Gutachten des Ministeriums ja mit dem Gutachten der Grünen auseinander.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>jkla, ORF.at</p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310132/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort ukraine-krieg">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Ukraine-Krieg</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310175"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3310175"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310175/" id="story3310175" role="button" aria-controls="ticker-story-text-3310175" aria-expanded="false">
+            Bericht: Russische Schiffe kurz vor Explosion bei Pipelines
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310175">
+         
+         <div class="story-story">
+            <p>Wenige Tage vor den Anschlägen auf die Pipelines Nord Stream 1 und 2 haben einem Bericht zufolge russische Militärschiffe mutmaßlich an den Tatorten operiert. Der Schiffsverband habe über die notwendige Ausrüstung verfügt, um Sprengsätze anzubringen, berichtete das deutsche Nachrichtenportal t-online heute unter Berufung auf Informationen aus Sicherheitskreisen und öffentlich einsehbare Daten.</p><p>Am 26. September hatten Explosionen die deutsch-russischen Gaspipelines am Grund der Ostsee beschädigt. Satellitenbilder belegen laut t-online, dass in der Nacht zum 21. September mindestens drei verdächtige Schiffe Russlands Flottenstützpunkt in Kaliningrad verließen.</p><p>Die „SS-750“ verfügt über ein Mini-U-Boot mit Greifarmen, die Schlepper „SB-123“ und „Alexander Frolow“ sind mit Lastkränen ausgestattet. Auf ihrem Weg Richtung Tatort sandten die beiden Schlepper am Nachmittag des 21. September demnach einmalig Positionsdaten.</p><p>Drei weitere Schiffe der russischen Marine könnten den Einsatz begleitet und militärisch abgeschirmt haben. Das russische Verteidigungsministerium teilte mit, die Korvette „Soobrazitelny“ und die Fregatte „Yaroslav Mudry“ hätten zu Übungszwecken einen Schiffskonvoi eskortiert.</p><h3>Täterschaft weiterhin ungeklärt</h3><p>Insgesamt vier Explosionen hatten im September in den Wirtschaftszonen Schwedens und Dänemarks in der Ostsee mehrere Lecks in die Nordstream-Pipelines gerissen. Wer für den Sabotage-Akt verantwortlich ist, ist immer noch nicht geklärt.</p><p>Zuletzt hatte es Hinweise darauf gegeben, dass eine pro-ukrainische Gruppierung von einem Boot aus Sprengsätze an den Pipelines befestigt und diese zur Explosion gebracht haben könnte. Mehreren Medienberichten zufolge war das Boot von einer Firma mit Sitz in Polen angemietet worden, die sich im Besitz von zwei Ukrainern befindet. In dem Boot seien später Sprengstoffspuren gefunden worden.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310175/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310155"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3310155"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="false">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310155/" id="story3310155" role="button" aria-controls="ticker-story-text-3310155" aria-expanded="false">
+            Biden: China hat bisher keine Waffen an Russland geliefert
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310155">
+         
+         <div class="story-story">
+            <p>China hat nach den Worten von US-Präsident Joe Biden bisher keine Waffen an Russland geliefert. „Das heißt nicht, dass sie es nicht tun werden, aber sie haben es noch nicht getan“, sagte Biden gestern mit Blick auf entsprechende Befürchtungen westlicher Staaten vor dem Hintergrund des russischen Angriffskrieges gegen die Ukraine.</p><p>„Ich nehme China nicht leicht. Ich nehme Russland nicht leicht“, sagte Biden auf einer Pressekonferenz in der kanadischen Hauptstadt Ottawa. Er habe „nun seit drei Monaten gehört“, dass China Russland wichtige Waffen liefern werde. „Sie haben es noch nicht getan“, sagte der US-Präsident.</p><p>US-Außenminister Antony Blinken hatte am Mittwoch gesagt, Washington habe derzeit keine Hinweise darauf, dass China Russland bei seinem Angriffskrieg gegen die Ukraine nennenswert militärisch unterstützt. Washington habe „bis heute nicht gesehen, dass sie diese rote Linie überschritten haben“, sagte Blinken am Mittwoch bei einer Anhörung vor einem Ausschuss des US-Senats.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310155/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310150"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3310150"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="false">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310150/" id="story3310150" role="button" aria-controls="ticker-story-text-3310150" aria-expanded="false">
+            Wichtige Ukraine-Gläubiger machen Weg für IWF-Hilfen frei
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310150">
+         
+         <div class="story-story">
+            <p>Wichtige westliche Gläubiger der Ukraine haben gestern bei einem Treffen Hürden für das geplante Hilfsprogramm des Internationalen Währungsfonds (IWF) aus dem Weg geräumt. Die Gruppe der Gläubiger der Ukraine (GCU) machte dabei dem von Russland angegriffenen Staat weitere Zugeständnisse, wie sie am Abend mitteilte. Die Ukraine bekommt damit längerfristige Planbarkeit zu den finanziellen Hilfen.</p><p>Zur GCU gehören Deutschland, Frankreich, die USA, Großbritannien, Kanada und Japan. Die Gläubigergruppe sagte zu, das bestehende Schuldenmoratorium bis 2027 zu verlängern. Damit werden die Zins- und Tilgungslasten für die Ukraine noch länger ausgesetzt.</p><h3>Selenskyj setzt auch auf Weltbank</h3><p>Die Ukraine wird seit mehr als einem Jahr von Russland angegriffen, das Teile des Landes besetzt hat. Der Wiederaufbau wird jüngsten Schätzungen zufolge mindestens 411 Milliarden Dollar (377,79 Mrd. Euro) kosten.</p><p>Der IWF und die Ukraine hatten sich zuletzt auf Kredithilfen im Volumen von 15,6 Milliarden Dollar über einen Zeitraum von vier Jahren geeinigt. Bisher waren Hilfen eher kurzfristiger Natur und immer wieder auch bilateral mit der Regierung in Kiew ausgehandelt.</p><p>Der ukrainische Präsident Wolodymyr Selenskyj setzt beim Wiederaufbau seines Landes auch auf die Unterstützung der Weltbank. Bei einem Treffen mit Vertretern der Weltbank seien neue vielversprechende Programme besprochen worden, sagte Selenskyj in seiner allabendlich in Kiew verbreiteten Videobotschaft. „Natürlich haben wir uns auf den Wiederaufbau konzentriert – und alles, was getan werden muss in den vielen ukrainischen Städten und Dörfern, die unter den Terroranschlägen der Besatzer gelitten haben“, sagte er.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310150/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort ausland">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Ausland</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310162"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3310162"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310162/" id="story3310162" role="button" aria-controls="ticker-story-text-3310162" aria-expanded="false">
+            US-Luftangriffe in Syrien nach Tötung von US-Bürger
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310162">
+         
+         <div class="story-story">
+            <p>Nach Tötung eines US-Bürgers durch einen Drohnenangriff in Syrien hat das US-Militär dort Ziele von Verbündeten der iranischen Revolutionsgarden angegriffen. Er habe die Luftangriffe im Osten des Landes auf Weisung von US-Präsident Joe Biden genehmigt, sagte Verteidigungsminister Lloyd Austin.</p><p>Ziel seien Einrichtungen von Gruppen gewesen, „die mit den iranischen Revolutionsgarden in Kontakt stehen“. Es habe sich um zwei Luftschläge auf zwei Ziele gehandelt, sagte Pentagon-Sprecher Pat Ryder. Nach Angaben von Menschenrechtsaktivisten wurden dabei mindestens elf Kämpfer einer mit dem Iran verbündeten Miliz getötet.</p><p>Bei dem vorangegangenen mutmaßlich iranischen Drohnenangriff auf einen Militärstützpunkt nahe al-Hassaka im Nordosten seien ein Auftragnehmer des US-Militärs getötet und ein weiterer sowie fünf US-Soldaten verletzt worden, teilte das Pentagon mit. Man sei sich sehr sicher, dass die Drohne „iranischen Ursprungs“ sei, sagte Ryder.</p><h3>Bericht über eingeschränkte Luftabwehr</h3><p>Die „New York Times“ berichtete unter Berufung auf Mitarbeiter der US-Regierung, das Luftabwehrsystem an dem Militärstützpunkt sei zum Zeitpunkt des Angriffs nicht voll funktionsfähig gewesen. Warum es zu dem Ausfall gekommen sei, werde noch untersucht. Auch ob die Angreifer über die Störung Bescheid wussten, sei noch unklar.</p><p>Ryder sagte, das Radarsystem habe ein vollständiges Bild wiedergegeben. Darüber hinaus würden die Umstände des Angriffs untersucht.</p><p>US-Präsident Joe Biden versicherte, dass sein Land nicht an einem Konflikt mit dem Iran interessiert sei. Die USA „suchen keinen Konflikt mit dem Iran, aber sind vorbereitet, kraftvoll zu handeln, um unser Volk zu schützen“, so Biden.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310162/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310148"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3310148"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310148/" id="story3310148" role="button" aria-controls="ticker-story-text-3310148" aria-expanded="false">
+            Biden verkündet Asyleinigung mit Kanada
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310148">
+         
+         <div class="story-story">
+            <p>Die USA und Kanada haben angesichts der steigenden Zahl von Migranten an der gemeinsamen Grenze eine neue Asylregelung vereinbart. Kanada habe sich dazu bereit erklärt, mehr Migrantinnen und Migranten aufzunehmen, sagte US-Präsident Joe Biden gestern bei einer Rede vor dem kanadischen Parlament in Ottawa. „Gleichzeitig werden die Vereinigten Staaten und Kanada zusammenarbeiten, um illegale Grenzübertritte zu unterbinden.“</p><p>Die kanadische Regierung hatte in Washington angesichts sprunghaft angestiegener illegaler Grenzübertritte seit längerer Zeit auf ein Abkommen gedrungen, um mehr Migrantinnen und Migranten abweisen zu können. Fast 40.000 Menschen kamen Medien zufolge im vergangenen Jahr nach Kanada, die Zahl hatte sich damit drastisch erhöht.</p><p>Dabei handelt es sich vor allem um Menschen aus Mittel- und Südamerika, die von den USA aus nach Kanada weiterreisen. Besonders der geschlossene Grenzübergang Roxham Road nördlich von New York wurde zuletzt zum Sinnbild für die illegalen Grenzübertritte.</p><h3>Gegenseitiges Lob</h3><p>Ein bereits bestehendes Abkommen solle nun aktualisiert werden, hieß es in einer gemeinsamen Erklärung der beiden Länder. Kanada erkläre sich dazu bereit, 15.000 zusätzliche Migranten innerhalb eines Jahres aufzunehmen. Weitere Schritte sollen „eine Abschreckung der irregulären Migration an unserer gemeinsamen Grenze“ bringen. Berichten nach bedeutet das, dass Kanada Einwanderer am Übergang Roxham Road abweisen kann.</p><p>Biden sparte bei seiner Reise in Kanada nicht mit Lob für den NATO-Partner. Auch der kanadische Ministerpräsident Justin Trudeau lobte die tiefe Verbindung angesichts zahlreicher Herausforderungen wie der Klimakrise, der Nachwirkungen der Pandemie, des Ukraine-Krieges und der immer noch hohen Inflation. Es seien „ernste Zeiten“, in denen die gemeinsame Freundschaft wichtiger denn je sei. „Herr Präsident, Sie sind ein wahrer Freund Kanadas“, sagte Trudeau an Biden gerichtet.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310148/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310169"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3310169"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310169/" id="story3310169" role="button" aria-controls="ticker-story-text-3310169" aria-expanded="false">
+            Erstes Schuldbekenntnis nach Mord an Haitis Präsident
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310169">
+         
+         <div class="story-story">
+            <p>Nach dem Mord an Haitis Staatschef Jovenel Moise hat es vor einem US-Gericht ein erstes Schuldbekenntnis von einem der mutmaßlich an dem Mordkomplott Beteiligten gegeben. Der 50 Jahre alte Rodolphe Jaar gestand laut Gerichtsunterlagen von gestern vor einem Gericht im US-Bundesstaat Florida ein, dass er „materielle Unterstützung und Ressourcen“ in dem Wissen geliefert habe, dass diese für die Entführung und Ermordung von Moise gedacht seien.</p><p>Der Geschäftsmann Jaar, der die haitianische und die chilenische Staatsbürgerschaft besitzt, ist der erste von elf Verdächtigen, die Staatsanwälte im Süden von Florida wegen Beteiligung an dem Mordanschlag angeklagt haben. Nach seiner Festnahme in Haitis Nachbarland Dominikanische Republik war er im Jänner 2022 an ein Gericht in Miami überstellt worden.</p><p>Der 53 Jahre alte Staatschef Moise war am 7. Juli 2021 von kolumbianischen Söldnern in seinem Privathaus in Haitis Hauptstadt Port-au-Prince erschossen worden. Sein Personenschutz schritt nicht ein. Laut Jaars Schuldbekenntnis hatte er das kolumbianische Mordkommando beherbergt und es mit Waffen ausgerüstet.</p><h3>Staatsanwaltschaft: Mord aus Geld- und Machtgier</h3><p>Laut der Staatsanwaltschaft für den südlichen Bezirk von Florida wurde der Mord an Moise aus Geld- und Machtgier begangen. Zu den Verdächtigen zählen der Venezolaner Antonio Intriago und der Kolumbianer Arcangel Pretel Ortiz.</p><p>Die beiden Manager der in Miami ansässigen Sicherheitsfirma CTU sollen geplant haben, Moise zu entführen und an seiner Stelle den US-Haitianer Christian Sanon zum Präsidenten des Karibiklandes zu machen – im Gegenzug für lukrative Aufträge. Nachdem eine Entführung von Moise misslang, beschlossen Intriago und Pretel Ortiz laut US-Staatsanwaltschaft, den haitianischen Präsidenten ermorden zu lassen.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310169/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310147"
+   data-is-live="false"
+   data-oewatag="RedCont/Politik/PolitikAusland/v1news/stories/ticker/3310147"
+   data-adworxcat="aus"
+   data-adworxtarget="Politik"
+   data-adworxsubtarget="PolitikAusland"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310147/" id="story3310147" role="button" aria-controls="ticker-story-text-3310147" aria-expanded="false">
+            Verdächtiges Päckchen an New Yorker Staatsanwalt
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310147">
+         
+         <div class="story-story">
+            <p>Bei der New Yorker Bezirksstaatsanwaltschaft ist US-Medienberichten zufolge ein kleines Paket mit einer verdächtigen weißen Substanz eingegangen. Es sei im Briefzentrum des Gebäudes abgegeben worden, in dem auch Bezirksstaatsanwalt Alvin Bragg sein Büro hat, berichtete der Sender Fox News gestern unter Berufung auf die Polizei. Der Inhalt der Sendung sei jedoch harmlos, hieß es.</p><p>Auf einer in einem Kuvert mitgelieferten Karte habe gestanden: „Alvin – ich werde dich töten“, hieß es unter Berufung auf eine Polizeiquelle. Bragg leitet die Ermittlungen gegen den ehemaligen US-Präsidenten Donald Trump im Zusammenhang mit Schweigegeldzahlungen an einen Pornostar und ein Model.</p><p>Trump hatte in den vergangenen Tagen mit Mitteilungen auf seiner Social-Media-Plattform Truth Social für Aufsehen gesorgt, in denen er mit Blick auf die Ermittlungen und eine mögliche baldige Anklage in dem Fall vor „Tod und Zerstörung“ warnte. In einem anderen Post, den Trump teilte, war er in einer Fotomontage mit einem Baseballschläger neben Bragg zu sehen.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310147/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort it">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>IT</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310158"
+   data-is-live="false"
+   data-oewatag="RedCont/ComputerUndTechnik/ComputerUndTechnikUeberblick/v1news/stories/ticker/3310158"
+   data-adworxcat="tec"
+   data-adworxtarget="ComputerUndTechnik"
+   data-adworxsubtarget="ComputerUndTechnikUeberblick"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310158/" id="story3310158" role="button" aria-controls="ticker-story-text-3310158" aria-expanded="false">
+            Intel-Mitbegründer Gordon Moore mit 94 Jahren gestorben
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310158">
+         
+         <div class="story-story">
+            <p>Der Mitbegründer des US-Chipherstellers Intel, Gordon Moore, ist im Alter von 94 Jahren gestorben. Das teilte das Unternehmen mit. Moore galt als Pionier der Halbleiterindustrie. Der Amerikaner gründete 1968 gemeinsam mit Robert Noyce NM Electronics, das später zu Intel wurde.</p><p>Unter seiner und Noyce’ Führung erfand Intel die Mikroprozessoren, die den Weg für die Revolution der Personal Computer (PC) ebneten. Gemeinsam mit seinem Entwicklerteam sorgte er schließlich dafür, dass Intel-Prozessoren in mehr als 80 Prozent aller Computer weltweit eingebaut wurden.</p><div class="embed twitter">
+   <blockquote class="twitter-tweet" data-lang="de" data-dnt="true"><p lang="en" dir="ltr">Today, we lost a visionary. <br><br>Gordon Moore, thank you for everything. <a href="https://t.co/bAiBAtmd9K">pic.twitter.com/bAiBAtmd9K</a></p>&mdash; Intel (@intel) <a href="https://twitter.com/intel/status/1639418740243861504?ref_src=twsrc%5Etfw">25. März 2023</a></blockquote>
+
+</div><h3>Folgenreiches „Moore’s Law“</h3><p>Bekannt wurde er auch durch das von ihm definierte „Moore’s Law“. Moore, der in Kalifornien Physik und Chemie studiert und mit einer Promotion abgeschlossen hatte, sagte bereits 1965 voraus, dass sich die Zahl der integrierten Schaltungen auf gleicher Fläche etwa alle zwei Jahre verdoppeln wird – und behielt mit dieser Annahme recht.</p><p>Hatte der erste Transistor im Jahr 1947 noch die Größe einer Streichholzschachtel, finden sich heute Dutzende Millionen auf der Fläche eines Fingernagels. Auch in Reaktion auf Moores Vorhersage stockten Chiphersteller ihre Forschungs- und Entwicklungsressourcen auf, um zu prüfen, ob sich das Gesetz tatsächlich bewahrheitet.</p><p>Moore war bis 1975 geschäftsführender Präsident von Intel. Von 1979 bis 1987 war er Vorsitzender sowie CEO und blieb es bis 1997. 2002 wurde er von Präsident George W. Bush mit der „Medal of Freedom“, der höchsten zivilen Auszeichnung der USA, geehrt. Im Jahr 2013 schätzte das „Forbes“-Magazin das Nettovermögen des Unternehmers auf 4,1 Milliarden Dollar (3,82 Mrd. Euro).</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310158/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310170"
+   data-is-live="false"
+   data-oewatag="RedCont/ComputerUndTechnik/ComputerUndTechnikUeberblick/v1news/stories/ticker/3310170"
+   data-adworxcat="tec"
+   data-adworxtarget="ComputerUndTechnik"
+   data-adworxsubtarget="ComputerUndTechnikUeberblick"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310170/" id="story3310170" role="button" aria-controls="ticker-story-text-3310170" aria-expanded="false">
+            In-Game-Käufe: FIFA-Packs für Gericht illegales Glücksspiel
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310170">
+         
+         <div class="story-story">
+            <p>Wer beim aktuellen Videospiel der FIFA-Reihe die Gewinnchancen verbessern möchte, kann virtuelle Spieler in Form von FIFA-Packs kaufen. Zum Zeitpunkt des Kaufs weiß man aber nicht, ob es sich um gute oder nur mittelmäßige Spieler handelt. Das Bezirksgericht Hermagor hat jetzt in einem ersten Urteil FIFA-Packs als illegales Glücksspiel eingestuft. Das Urteil könnte weitreichende Folgen haben.</p><p><strong>Mehr</strong> dazu in <a href="https://help.orf.at/stories/3218379/" rel="noopener noreferrer">help.ORF.at</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310170/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort wirtschaft">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Wirtschaft</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310161"
+   data-is-live="false"
+   data-oewatag="RedCont/Wirtschaft/Wirtschaftspolitik/v1news/stories/ticker/3310161"
+   data-adworxcat="wir"
+   data-adworxtarget="Wirtschaft"
+   data-adworxsubtarget="Wirtschaftspolitik"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310161/" id="story3310161" role="button" aria-controls="ticker-story-text-3310161" aria-expanded="false">
+            Fitch sieht drohenden Zahlungsausfall Argentiniens
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310161">
+         
+         <div class="story-story">
+            <p>Die Fähigkeit Argentiniens, seine Schulden in ausländischer Währung zu begleichen, ist laut der Ratingagentur Fitch auf ein gefährlich niedriges Maß gesunken. Fitch stufte das südamerikanische Land am Freitag von „CCC-“ um zwei Stufen herab auf „C“.</p><p>Das bedeutet, dass ein Zahlungsausfall nach Einschätzung der Agentur unmittelbar droht. Mit Stufe C ist Argentinien nur noch eine Stufe von D, dem partiellen oder vollständigen Zahlungsausfall, entfernt.</p><h3>Regierung ordnet Schuldenumwandlung an</h3><p>Fitch reagierte damit auf ein Dekret der Regierung in Buenos Aires, wonach staatliche Unternehmen und Einrichtungen ihre Schulden in Fremdwährungen in Schulden im heimischen Peso umwandeln müssen. Die Ratingagentur kündigte an, Argentinien nach Umsetzung dieser Anweisung weiter herabzustufen auf „begrenzten Zahlungsausfall“.</p><p>Argentiniens stellvertretender Wirtschaftsminister Gabriel Rubinstein hatte auf Twitter erklärt, mit der Schuldenumwandlung wolle die Regierung „die makroökonomische Ordnung stärken“. Die Entscheidung soll das Abschmelzen von Argentiniens internationalen Währungsreserven stoppen und zugleich die Märkte stützen und die galoppierende Inflation im Land bekämpfen.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310161/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310159"
+   data-is-live="false"
+   data-oewatag="RedCont/Wirtschaft/Wirtschaftspolitik/v1news/stories/ticker/3310159"
+   data-adworxcat="wir"
+   data-adworxtarget="Wirtschaft"
+   data-adworxsubtarget="Wirtschaftspolitik"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310159/" id="story3310159" role="button" aria-controls="ticker-story-text-3310159" aria-expanded="false">
+            Turbulenter Börsentag für Banken
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310159">
+         
+         <div class="story-story">
+            <p>Nach dem Schock über das Straucheln der Credit Suisse vor rund einer Woche herrscht an den Börsen bei Banktiteln weiter Verunsicherung. Quer durch Europa gab es gestern Abschläge, besonders turbulent wurde es für die Deutsche Bank, deren Aktien zwischendurch fast um 15 Prozent fielen, ehe sie sich wieder leicht erholten. Die in Brüssel auf einem EU-Gipfel versammelte Spitzenpolitik übte sich in Zuversicht und war um Beruhigung bemüht.</p><p><a href="https://orf.at/stories/3310134/" rel="noopener noreferrer">Lesen Sie mehr …</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310159/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310172"
+   data-is-live="false"
+   data-oewatag="RedCont/Wirtschaft/Unternehmensberichterstattung/v1news/stories/ticker/3310172"
+   data-adworxcat="wir"
+   data-adworxtarget="Wirtschaft"
+   data-adworxsubtarget="Unternehmensberichterstattung"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310172/" id="story3310172" role="button" aria-controls="ticker-story-text-3310172" aria-expanded="false">
+            Buschenschanken: Kürzer offen wegen Personalmangels
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310172">
+         
+         <div class="story-story">
+            <p>An diesem Wochenende sperren die meisten Buschenschenken und Gastronomiebetriebe in der Südsteiermark auf – allerdings nur eingeschränkt, denn bei vielen Betrieben mangelt es mehr denn je an Personal. Daher sind heuer die Öffnungszeiten stark verkürzt.</p><p><strong>Mehr</strong> dazu in <a href="https://steiermark.orf.at/stories/3200082/" rel="noopener noreferrer">steiermark.ORF.at</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310172/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort umwelt--klima">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Umwelt & Klima</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310160"
+   data-is-live="false"
+   data-oewatag="RedCont/Wissenschaft/WissenschaftUeberblick/v1news/stories/ticker/3310160"
+   data-adworxcat="wis/klima"
+   data-adworxtarget="Wissenschaft"
+   data-adworxsubtarget="WissenschaftUeberblick"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310160/" id="story3310160" role="button" aria-controls="ticker-story-text-3310160" aria-expanded="false">
+            Appell von Guterres zu Abschluss von Wasserkonferenz
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310160">
+         
+         <div class="story-story">
+            <p>Zum Ende der Wasserkonferenz in New York hat UNO-Generalsekretär Antonio Guterres die Länder beim Kampf gegen Trinkwasserknappheit in die Pflicht genommen. Alle Hoffnung für die Menschheit hänge davon ab, einen neuen Kurs einzuschlagen.</p><p>„Sie hängt davon ab, dass die wegweisenden integrativen und handlungsorientierten Verpflichtungen, die von den Mitgliedsstaaten und anderen auf dieser Konferenz eingegangen wurden, realisiert werden“, so Guterres.</p><p>Der UNO-Generalsekretär spielte damit auf zahlreiche einzelne, nicht verpflichtende Maßnahmen und Projekte an, die unter anderem Staaten, Nichtregierungsorganisationen und Wirtschaftsunternehmen bei der Konferenz in den vergangenen zwei Tagen zugesagt hatten.</p><p>Auch müssten alternative Ernährungssysteme entwickelt werden, um die nicht nachhaltige Nutzung von Wasser in der Lebensmittelproduktion und Landwirtschaft zu reduzieren. Die Strategien in den Bereichen Wasser, Ökosystemen und Klima müssten verschränkt werden, um Treibhausgase zu reduzieren, so Guterres.</p><h3>Erste Wasserkonferenz seit über 45 Jahren</h3><p>Die UNO-Wasserkonferenz lief seit Mittwoch. Es war das erste große UNO-Treffen seit 1977, bei dem ausschließlich das Thema Wasser behandelt wurde. Die Vereinten Nationen hatten angesichts einer weltweit drohenden Wasserkrise Alarm geschlagen: Der Wasserkreislauf sei durchbrochen, Ökosysteme zerstört und Grundwasser verseucht.</p><p>Zwei Milliarden Menschen, jede und jeder Vierte, haben keinen ausreichenden Zugang zu sauberem Wasser. Und die weltweite Trinkwasserknappheit werde sich weiter verstärken. Für Österreich trat Landwirtschaftsminister Norbert Totschnig (ÖVP) bei seiner Rede vor der Generalversammlung für einen UNO-Sonderbeauftragten ein.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310160/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310173"
+   data-is-live="false"
+   data-oewatag="RedCont/Wissenschaft/WissenschaftUeberblick/v1news/stories/ticker/3310173"
+   data-adworxcat="wis/klima"
+   data-adworxtarget="Wissenschaft"
+   data-adworxsubtarget="WissenschaftUeberblick"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310173/" id="story3310173" role="button" aria-controls="ticker-story-text-3310173" aria-expanded="false">
+            Stadtbäume leiden unter Trockenheit
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310173">
+         
+         <div class="story-story">
+            <p>Bäume sollen die Hitze in der Stadt erträglicher machen. Nicht nur in Parks, sondern immer öfter auch in Straßen und auf Plätzen. Doch auch die Schattenspender haben mit dem Klimawandel und der damit verbundenen Trockenheit zu kämpfen.</p><p><strong>Mehr</strong> dazu in <a href="https://wien.orf.at/stories/3200144/" rel="noopener noreferrer">wien.ORF.at</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310173/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort sport">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Sport</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310153"
+   data-is-live="false"
+   data-oewatag="RedCont/Sport/Sportueberblick/v1news/stories/ticker/3310153"
+   data-adworxcat="spo"
+   data-adworxtarget="Sport"
+   data-adworxsubtarget="Sportueberblick"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310153/" id="story3310153" role="button" aria-controls="ticker-story-text-3310153" aria-expanded="false">
+            Die ÖFB-Teamspieler in der Einzelkritik
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310153">
+         
+         <div class="story-story">
+            <p>Österreichs Nationalteam hat die erste Pflichtaufgabe in der Qualifikation für die EM 2024 in Deutschland mit Bravour bestanden. Beim 4:1-Sieg über Aserbaidschan stach gestern Abend vor allem ein Trio, angeführt von einem stark aufspielenden Marcel Sabitzer, aus dem Kollektiv heraus. Luft nach oben gibt es aber vor dem nächsten Auftritt am Montag (20.45 Uhr, live in ORF1) erneut in Linz gegen Estland aber genug.</p><p><a href="https://sport.orf.at/stories/3109797/" rel="noopener noreferrer">Lesen Sie mehr …</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310153/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310151"
+   data-is-live="false"
+   data-oewatag="RedCont/Sport/Sportueberblick/v1news/stories/ticker/3310151"
+   data-adworxcat="spo"
+   data-adworxtarget="Sport"
+   data-adworxsubtarget="Sportueberblick"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310151/" id="story3310151" role="button" aria-controls="ticker-story-text-3310151" aria-expanded="false">
+            Salzburg startet mit klarem Sieg gegen KAC
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310151">
+         
+         <div class="story-story">
+            <p>Red Bull Salzburg ist mit einem klaren Heimsieg gegen den KAC ins Semifinal-Play-off der win2day ICE Hockey League gestartet. Der Titelverteidiger gewann gestern Abend vor fast 3.200 Zuschauerinnen und Zuschauern in der Eisarena mit 5:1 (1:0 2:0 2:1). Die „Bullen“ verlängerten damit ihre Play-off-Siegesserie auf 17 Erfolge en suite. Das erste Spiel des zweiten Halbfinales wurde erst in der Overtime entschieden.</p><p><a href="https://sport.orf.at/stories/3109796/" rel="noopener noreferrer">Lesen Sie mehr …</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310151/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310146"
+   data-is-live="false"
+   data-oewatag="RedCont/Sport/Sportueberblick/v1news/stories/ticker/3310146"
+   data-adworxcat="spo"
+   data-adworxtarget="Sport"
+   data-adworxsubtarget="Sportueberblick"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310146/" id="story3310146" role="button" aria-controls="ticker-story-text-3310146" aria-expanded="false">
+            Nagelsmann-Aus bei Bayern besiegelt
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310146">
+         
+         <div class="story-story">
+            <p>Die Ära von Julian Nagelsmann als Trainer des FC Bayern München ist offiziell vorbei. Der deutsche Rekordmeister bestätigte gestern einen entsprechenden Bericht der „Bild“-Zeitung von Donnerstagabend. Auch der bereits davor in den Medien vermeldete Thomas Tuchel als Nachfolger des 35-Jährigen wurde vom Club offiziell bestätigt.</p><p><a href="https://sport.orf.at/stories/3109781/" rel="noopener noreferrer">Lesen Sie mehr …</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310146/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310143"
+   data-is-live="false"
+   data-oewatag="RedCont/Sport/Sportueberblick/v1news/stories/ticker/3310143"
+   data-adworxcat="spo"
+   data-adworxtarget="Sport"
+   data-adworxsubtarget="Sportueberblick"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310143/" id="story3310143" role="button" aria-controls="ticker-story-text-3310143" aria-expanded="false">
+            Negativlauf nährt Thiems Selbstzweifel
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310143">
+         
+         <div class="story-story">
+            <p>Während das frühe Aus von Julia Grabher beim WTA-1000-Turnier in Miami für nur wenig Aufsehen sorgte, gibt die Formkurve von Dominic Thiem weiter Rätsel auf. Der 29-Jährige unterlag am Donnerstag (Ortszeit) beim gleichzeitig stattfindenden ATP-1000er zum Auftakt dem Italiener Lorenzo Sonego 6:7 (7/9) 2:6 und setzte seinen Negativlauf damit ungebremst fort. Angesichts der fehlenden Erfolgserlebnisse überlegt Österreichs Nummer eins nun eine radikale Kurskorrektur, Hilfe von einem Mentalcoach schließt Thiem aber aus.</p><p><a href="https://sport.orf.at/stories/3109773/" rel="noopener noreferrer">Lesen Sie mehr …</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310143/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort chronik">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Chronik</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310163"
+   data-is-live="false"
+   data-oewatag="RedCont/Nachrichten/Chronik/v1news/stories/ticker/3310163"
+   data-adworxcat="chr"
+   data-adworxtarget="Nachrichten"
+   data-adworxsubtarget="Chronik"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310163/" id="story3310163" role="button" aria-controls="ticker-story-text-3310163" aria-expanded="false">
+            Mindestens sieben Tote durch Tornado in USA
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310163">
+         
+         <div class="story-story">
+            <p>Ein heftiger Wirbelsturm hat im südlichen US-Bundesstaat Mississippi mindestens sieben Menschen das Leben gekostet. Das berichtete der Sender ABC News in der Nacht auf heute unter Berufung auf die Gerichtsmedizinerin des Bezirks Sharkey County.</p><p>Rettungs- und Bergungskräfte seien im Einsatz, teilte der Katastrophenschutz über Twitter mit. Zuvor hatte die Behörde Warnungen vor einer Serie von Tornados in der Region veröffentlicht.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310163/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310137"
+   data-is-live="false"
+   data-oewatag="RedCont/Nachrichten/Chronik/v1news/stories/ticker/3310137"
+   data-adworxcat="chr"
+   data-adworxtarget="Nachrichten"
+   data-adworxsubtarget="Chronik"
+   data-banner-enabled="false">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310137/" id="story3310137" role="button" aria-controls="ticker-story-text-3310137" aria-expanded="false">
+            22 Tote bei Busunglück in Nigeria
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310137">
+         
+         <div class="story-story">
+            <p>Bei einem Busunglück im Norden Nigerias sind 22 Menschen ums Leben gekommen. Wie die Polizei gestern mitteilte, kam der Bus mit 21 Insassen gestern von der Fahrbahn ab, als ein Reifen platzte. Er fuhr dann in eine Menschengruppe, die wegen der Hitze Schutz unter einem Baum gesucht hatte. Der Bus fing Feuer und alle 21 Insassen starben in den Flammen.</p><p>Das Unglück ereignete sich in dem Dorf Udubo im Bundesstaat Bauchi. Vier Passanten erlitten den Polizeiangaben zufolge Verletzungen, unter ihnen ein Polizist, der später seinen Verletzungen erlag.</p><p>In Nigeria kommt es immer wieder zu Verkehrsunfällen, Gründe sind der schlechte Zustand der Straßen, zu hohe Geschwindigkeit und Missachtung der Verkehrsregeln. Zwischen 2016 und 2021 starben in dem westafrikanischen Land mehr als 32.000 Menschen bei rund 65.000 Verkehrsunfällen, wie die Verkehrssicherheitsbehörde im September mitteilte.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310137/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310157"
+   data-is-live="false"
+   data-oewatag="RedCont/Nachrichten/Chronik/v1news/stories/ticker/3310157"
+   data-adworxcat="chr"
+   data-adworxtarget="Nachrichten"
+   data-adworxsubtarget="Chronik"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310157/" id="story3310157" role="button" aria-controls="ticker-story-text-3310157" aria-expanded="false">
+            Kurzer Rückfall in den Winter
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310157">
+         
+         <div class="story-story">
+            <p>Die vergangenen Tage waren vielerorts in Österreich die bisher wärmsten des Jahres. Nun stellt sich das Wetter aber um. Mehrere Staffeln mit Regen ziehen durch, es kühlt ab. Die Trockenheit wird etwas gelindert. Anfang der nächsten Woche schaut in einigen Landesteilen sogar der Winter vorbei, es gibt Schnee und Frost bis in tiefe Lagen.</p><p><a href="https://orf.at/stories/3309993/" rel="noopener noreferrer">Lesen Sie mehr …</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310157/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310154"
+   data-is-live="false"
+   data-oewatag="RedCont/Nachrichten/Chronik/v1news/stories/ticker/3310154"
+   data-adworxcat="chr"
+   data-adworxtarget="Nachrichten"
+   data-adworxsubtarget="Chronik"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310154/" id="story3310154" role="button" aria-controls="ticker-story-text-3310154" aria-expanded="false">
+            Wien: Sommerzeit auch heuer Baustellenzeit
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310154">
+         
+         <div class="story-story">
+            <p>Hauptarbeiten bei den Sommerbaustellen in Wien sind diesmal die Instandsetzung der Aspernbrücke und der Westausfahrt sowie die Umgestaltung der Reinprechtsdorfer Straße zur klimafreundlichen Straße. Hinzu kommt der Ausbau der Radfahrinfrastruktur.</p><p><strong>Mehr</strong> dazu in <a href="https://wien.orf.at/stories/3200106/" rel="noopener noreferrer">wien.ORF.at</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310154/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort kultur">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Kultur</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310174"
+   data-is-live="false"
+   data-oewatag="RedCont/KulturUndFreizeit/FilmUndKino/v1news/stories/ticker/3310174"
+   data-adworxcat="unt"
+   data-adworxtarget="KulturUndFreizeit"
+   data-adworxsubtarget="FilmUndKino"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310174/" id="story3310174" role="button" aria-controls="ticker-story-text-3310174" aria-expanded="false">
+            Nach „#MeToo“: Filmbranche feilt an Arbeitsbedingungen
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310174">
+         
+         <div class="story-story">
+            <p>„#MeToo“-Postings auf Insta, Vorwürfe bei Dreharbeiten, Anklage gegen Teichtmeister: Das vergangene Jahr war für die österreichische Filmbranche in mehrerlei Hinsicht turbulent. Beim Diagonale Film-Meeting tauschte sich die Branche über den Stand der Arbeitsumstände und notwendige Entwicklungen aus, etwa beim Kinderschutz und der Vereinbarkeit.</p><p><strong>Mehr</strong> dazu in <a href="https://topos.orf.at/diagonale23-WeDo100" rel="noopener noreferrer">topos.ORF.at</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310174/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+<article class="ticker-story"
+   data-id="3310133"
+   data-is-live="false"
+   data-oewatag="RedCont/KulturUndFreizeit/FilmUndKino/v1news/stories/ticker/3310133"
+   data-adworxcat="unt"
+   data-adworxtarget="KulturUndFreizeit"
+   data-adworxsubtarget="FilmUndKino"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310133/" id="story3310133" role="button" aria-controls="ticker-story-text-3310133" aria-expanded="false">
+            Filmdoku „Lars Eidinger – Sein oder nicht sein“
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310133">
+         
+         <div class="story-story">
+            <p>Ein Jahr lang hat der Dokumentarfilmer Reiner Holzemer den deutschen Schauspielstar Lars Eidinger mit der Kamera begleitet und ein Porträt gestaltet, das erstmals Einblicke in die Arbeitsweise des Künstlers gibt.</p><p>„Ich finde den Film sehr gelungen … Es geht darum: Wer sind wir eigentlich?“, verrät Eidinger Ö1 im Gespräch.</p><p><strong>Mehr</strong> dazu in <a href="https://oe1.orf.at/artikel/701877/Lars-Eidinger-Sein-oder-nicht-sein" rel="noopener noreferrer">oe1.ORF.at</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310133/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort leute">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Leute</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310167"
+   data-is-live="false"
+   data-oewatag="RedCont/Nachrichten/GesellschaftUndLeute/v1news/stories/ticker/3310167"
+   data-adworxcat="leu"
+   data-adworxtarget="Nachrichten"
+   data-adworxsubtarget="GesellschaftUndLeute"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310167/" id="story3310167" role="button" aria-controls="ticker-story-text-3310167" aria-expanded="false">
+            Reese Witherspoon gibt Scheidung bekannt
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310167">
+         
+         <div class="story-story">
+            <p>Hollywood-Star Reese Witherspoon (47) und ihr Mann Jim Toth haben nach knapp zwölf Jahren Ehe ihre Scheidung bekanntgegeben. Angesichts der „vielen wunderschönen Jahre zusammen“ sei ihnen die Entscheidung schwergefallen, teilte die Oscar-Preisträgerin gestern über Instagram mit. Auch nach der Trennung blieben sie und Jim einander mit „tief empfundener Liebe, Güte und gegenseitigem Respekt“ sowie durch ihren gemeinsamen Sohn Tennessee verbunden.</p><p>Das Paar hatte sich im Jänner 2010 auf einer Party kennengelernt – unmittelbar nachdem Witherspoon die gut zweijährige Beziehung zu ihrem Kollegen Jake Gyllenhaal abgebrochen hatte. Davor war die Schauspielerin mit Ryan Phillippe verheiratet gewesen. Während diese Ehe nach sieben gemeinsamen Jahren geschieden wurde, hielt die Beziehung zum Talentagenten Toth deutlich länger: Ihre Trennung verkündeten die beiden kurz vor ihrem zwölften Hochzeitstag.</p><p>Witherspoon stand bereits als Teenager vor der Kamera. Weltweit bekannt wurde sie mit der Komödie „Natürlich blond!“. 2006 gewann sie den Oscar als beste Hauptdarstellerin für ihren Auftritt als Sängerin June Carter Cash in „Walk the Line“.</p>
+         </div>
+         <div class="ticker-story-meta">
+            <div class="byline"><p>red, ORF.at/<a href="https://orf.at/stories/impressum-nachrichtenagenturen/">Agenturen</a></p></div>
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310167/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+<div class="ticker-ressort lifestyle">
+   <div class="ticker-ressort-wrapper">
+      <h2 class="ticker-ressort-title"><span>Lifestyle</span></h2>
+      <div class="ticker-ressort-stories">
+         <article class="ticker-story"
+   data-id="3310171"
+   data-is-live="false"
+   data-oewatag="RedCont/Lifestyle/LifestyleUeberblick/v1news/stories/ticker/3310171"
+   data-adworxcat="lif"
+   data-adworxtarget="Lifestyle"
+   data-adworxsubtarget="LifestyleUeberblick"
+   data-banner-enabled="true">
+   <div class="ticker-story-wrapper">
+      <h3 class="ticker-story-headline">
+         <a href="https://orf.at/stories/3310171/" id="story3310171" role="button" aria-controls="ticker-story-text-3310171" aria-expanded="false">
+            Reifen, Kette, Akku: Fahrradcheck zum Saisonstart
+         </a>
+      </h3>
+      <div class="ticker-story-text"  id="ticker-story-text-3310171">
+         
+         <div class="story-story">
+            <p>Mit dem milden Frühlingswetter steigen viele Menschen wieder auf Fahrrad und E-Bike um. Zum Saisonstart bietet es sich an, das Gefährt einem Check zu unterziehen – egal ob es im Winter gefahren wurde oder nicht. Vieles kann man dabei selbst erledigen. So sollten etwa Lichter und Bremsen überprüft, die Kette geölt und die Reifen auf Schäden kontrolliert und aufgepumpt werden.</p><p><strong>Mehr</strong> dazu in <a href="https://help.orf.at/stories/3218351/" rel="noopener noreferrer">help.ORF.at</a></p>
+         </div>
+         <div class="ticker-story-meta">
+            
+
+
+            <div class="vue-oon-share-widget" data-url="https://orf.at/stories/3310171/">
+</div>
+
+         </div>
+      </div>
+   </div>
+   <button class="ticker-story-close">
+      <span class="sr-only">Meldung schlie&szlig;en</span>
+   </button>
+</article>
+
+      </div>
+   </div>
+</div>
+
+
+
+   <div class="ticker-oon-settings">
+      <h2 class="sr-only">Einstellungen</h2>
+      <a class="ticker-ressort-special-headline oon-push-settings" href="https://orf.at/push/">Benachrichtigungen einrichten</a>
+      <a class="ticker-ressort-special-headline oon-display-settings" href="https://orf.at/stories/darstellung">Bildschirmdarstellung festlegen</a>
+   </div>
+</div>
+
+<div class="side-flag">
+   <div class="oon-flag" data-flag="news-front-desktop-ticker.json"></div>
+   <div class="oon-flag" data-flag="news-front-desktop-ticker-sekundaer.json"></div>
+</div>
+
+
+
+
+      </main>
+      <footer class="page-footer" id="page-footer">
+   <div class="back-to-front" hidden>
+      <a href="https://orf.at/">Zurück zur Startseite</a>
+   </div>
+   <ul class="footer-network">
+   <li><a href="https://orf.at/" lang="en">News</a></li>
+   <li><a href="https://sport.orf.at/" class="current">Sport</a></li>
+   <li><a href="https://wetter.orf.at/">Wetter</a></li>
+   <li><a href="https://oesterreich.orf.at/" class="networkOesterreich">&Ouml;sterreich</a></li>
+   <li><a href="https://debatte.orf.at/">Debatte</a></li>
+   <li><a href="https://sound.orf.at/">Sound</a></li>
+   <li><a href="https://topos.orf.at/">Topos</a></li>
+   <li><a href="https://tvthek.orf.at/">TVthek</a></li>
+   <li><a href="https://tv.orf.at/">Fernsehen</a></li>
+   <li><a href="https://radio.orf.at/">Radio</a></li>
+   <li><a href="https://orf.at/uebersicht/">Alle ORF-Angebote</a></li>
+</ul>
+
+
+
+   <ul class="footer-service">
+      <li><a href="https://der.orf.at/kontakt">Kontakt</a></li>
+      <li><a href="https://orf.at/stories/datenschutz">Datenschutz</a></li>
+      <li><a href="https://orf.at/stories/impressum/">Impressum<span class="display-only-desktop">/Offenlegung</span></a></li>
+      <li><a href="https://zukunft.orf.at/show_content2.php?s2id=183">Bekanntgaben laut ORF-G</a></li>
+      <li><a href="https://publikumsrat.orf.at/">Publikumsrat</a></li>
+      <li><img class="orf-brick" src="https://orf.at/mojo/1_4_1/storyserver//news/common/images/orf-brick.svg" alt="ORF-Logo"></li>
+   </ul>
+   <span class="footer-font-preloader" aria-hidden="true" style="font-size: 6px;">ORF.at</span>
+</footer>
+
+
+      <div class="print-warning">
+   <div>Nicht alle Bilder konnten vollständig geladen werden. Bitte schließen Sie die Druckvorschau bis alle Bilder geladen wurden und versuchen Sie es noch einmal.</div>
+</div>
+
+
+
+   </div>
+   <script defer src="https://stm.orf.at/stm-static/stm-client.js?v=2&autostart&project=newssport"></script>
+   
+<script>
+   window.settings = {
+      "sitemap": {
+         "url": "https://orf.at/mojo/1_4_1/storyserver//common/sitemap/sitemap-standard.json"
+      },
+      "tickerBanner" : {
+         "enabled": true,
+         "url": "https://orf.at/mojo/1_4_1/storyserver//news/news/html/banner.html?v=1.3",
+         "width": 300,
+         "height": 600
+      },
+      "vote": {
+         "pluginSrc": ""
+      },
+      "siteHref": "https://orf.at/",
+      "mobilityLayer": {
+         "fussballApi": "https://appfeeds.orf.at/fb2.1/api/",
+         "fussballWeb": "https://sport.orf.at/fussball/"
+      },
+      "mediaApi": "//bits.orf.at/filehandler/static-api/json/current/data.json"
+   };
+   </script>
+
+<script data-compressor="e39e9526" src="https://orf.at/mojo.compressed/1_4_1/news//news/main.js?v=2023022710-244"></script>
+
+
+
+<script defer="defer" src="https://assets.orf.at/vue-storyserver/product-navigation/js/app.js?v=2023022710-244"></script>
+
+<script defer="defer" src="https://assets.orf.at/vue-storyserver/videolane/js/app.js?v=2023022710-244"></script>
+<script defer="defer" src="https://assets.orf.at/vue-storyserver/bulawindow/js/app.js?v=2023022710-244"></script>
+<script defer="defer" src="https://assets.orf.at/vue-storyserver/einfache-sprache/js/app.js?v=2023022710-244"></script>
+<script defer="defer" src="https://assets.orf.at/vue-storyserver/share/js/app.js?v=2023022710-244"></script>
+
+
+
+<script data-compressor="5d0bb7c3" src="https://orf.at/mojo.compressed/1_4_1/news//news/push-register-fix.js?v=2023022710-244" defer></script>
+
+
+
+
+   <script src="https://orf.at/oon/media/7.1/oonmedia.js?v=2023022710-244"></script>
+   <script defer src="https://pipe.orf.at/globus-2022/code/main.js?v=2023022710-244"></script>
+   <script defer="defer" src="//pipe.orf.at/migsys/mig.js/injector.js?automojo&v=2023022710-244"></script>
+
+   
+
+   <div id="sitebar-banner" class="banner sitebar-banner" aria-hidden="true"></div>
+<script>
+   oon.adition.loadAll("news.orf.at").then(function(response) {
+      var isDesktop = oon.responsive.isDesktop();
+      var domain = "news.orf.at";
+      var path = "/front";
+      var platform = isDesktop ? "web" : "mob";
+      var placement = isDesktop ? "sb" : "par";
+      var aditionId = oon.adition.lookup(path, platform, placement);
+      console.log(domain, path, platform, placement, aditionId);
+      if (aditionId) {
+         var sitepage = oon.adition.adformat(domain + path);
+         var keywords = {"subcategory":"nachrichtenueberblick"};
+         adition.srq.push(function(api) {
+            oon.adition.setDidomi(api);
+            api.setProfile("test", oon.adition.isTest());
+            api.setProfile("sitepage", sitepage);
+            for (var key in keywords) {
+               api.setProfile(key, keywords[key]);
+            }
+            if (isDesktop) {
+               api.setProfile("viewport", "full");
+               api.configureRenderSlot("sitebar-banner").setContentunitId(aditionId);
+               api.renderSlot("sitebar-banner").load().completeRendering();
+            } else {
+               // move parallax-container into ticker
+               $("#ticker .ticker-ressort:eq(0)").before($("<div />").addClass("px-target"));
+               oon.parallax(".px-target");
+               api.setProfile("viewport", oon.responsive.isTablet() ? "tablet" : "phone");
+               api.configureRenderSlot("px-wrapper").setContentunitId(aditionId);
+               api.renderSlot("px-wrapper").load().completeRendering();
+            }
+         });
+      }
+   });
+</script>
+
+   <!-- OEWA -->
+<script>
+var oewa_path = "RedCont/Nachrichten/Nachrichtenueberblick/v1news";
+var oewa_unique = "front";
+var oewa_data = {
+  "cn": "at",
+  "st": "at_w_atorf",
+  "sv": "in",
+  "ps": "lin",
+  "sc": "yes"
+};
+oewa_data.cp = oewa_path + "/" + oewa_unique;
+if (window.oewa_init) {
+   window.oewa_init(oewa_data);
+}
+</script>
+<!-- /OEWA -->
+
+
+
+</body>
+</html>
+
